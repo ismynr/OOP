@@ -1,0 +1,27 @@
+Microsoft Windows [Version 10.0.16299.125]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\ACER>E:
+
+E:\>cd 5 java_ti oop\file java\1kelas dan object
+
+E:\5 JAVA_TI OOP\FIle JAVA\1Kelas Dan Object>dir
+ Volume in drive E has no label.
+ Volume Serial Number is 8AC7-EEED
+
+ Directory of E:\5 JAVA_TI OOP\FIle JAVA\1Kelas Dan Object
+
+03/10/2019  09:15 PM    <DIR>          .
+03/10/2019  09:15 PM    <DIR>          ..
+03/10/2019  09:17 PM               372 Anggota.java
+03/10/2019  09:17 PM               252 Aplikasi.java
+               2 File(s)            624 bytes
+               2 Dir(s)  131,066,593,280 bytes free
+
+E:\5 JAVA_TI OOP\FIle JAVA\1Kelas Dan Object>javac Aplikasi.java
+
+E:\5 JAVA_TI OOP\FIle JAVA\1Kelas Dan Object>java Aplikasi
+17090042 : Ismi Nururrizqi
+17090042 : ismynr
+
+E:\5 JAVA_TI OOP\FIle JAVA\1Kelas Dan Object>
