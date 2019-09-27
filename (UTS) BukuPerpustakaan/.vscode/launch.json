@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aplikasi",
+            "request": "launch",
+            "mainClass": "Aplikasi",
+            "projectName": "BukuPerpustakaan_eee02c0b"
+        }
+    ]
+}
